@@ -1,9 +1,12 @@
-<<<<<<< Updated upstream
+
 # CSC256_Group5_TestRepo
 Test and play with stuff here ya'll
+selenium-kev
+Test MS  1
+TEST KEVIN
+
 Test MS  
 Test MS1
-=======
 
 
 
@@ -59,4 +62,4 @@ Test MS1
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/mssalstrom/CSC256_Group5_TestRepo/graphs/contributors
->>>>>>> Stashed changes
+
