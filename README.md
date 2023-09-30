@@ -1,9 +1,12 @@
 
 
 
+
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
 [Commits][commit-shield]
+=======
+
 
 
 <br />
@@ -41,6 +44,11 @@
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/mssalstrom/CSC256_Group5_TestRepo
 [contributors-url]: https://github.com/mssalstrom/CSC256_Group5_TestRepo/graphs/contributors
 [commit-shield]: https://img.shields.io/github/last-commit/mssalstrom/CSC256_Group5_TestRepo
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/mssalstrom/CSC256_Group5_TestRepo/graphs/contributors
+
+
