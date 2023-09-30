@@ -26,8 +26,8 @@
 <details>
     <summary>Table of Contents</summary>
     <ol>
-        <li><a>About the Project</a>
-        </li>
+        <li><a>About the Project</a></li>
+        <li><a>Project Members</a></li>
     </ol>
 
 
@@ -45,7 +45,7 @@
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
+<!-- MARKDOWN LINKS & IMAGES  -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/mssalstrom/CSC256_Group5_TestRepo
 [contributors-url]: https://github.com/mssalstrom/CSC256_Group5_TestRepo/graphs/contributors
