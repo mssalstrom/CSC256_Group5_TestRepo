@@ -21,18 +21,23 @@
 <!-- TABLE OF CONTENTS -->
 
 Table of Contents:
- - [About the Project](#about)
- - [Setup](#setup)
+- [About the Project](#about)
+- [Setup](#setup)
 
 
 <!-- ABOUT THE PROJECT -->
 ## About
 Group 5 project info
 
-
 ## Setup
-How to install packages
-
+<p align="center">
+<br />
+<a><img src ="https://avatars.githubusercontent.com/u/983927?s=48&v=4"></a>
+<br />
+</p>
+'''cmd
+pip install -r requirements.txt
+'''
 
 
 <!-- MARKDOWN LINKS & IMAGES  -->
