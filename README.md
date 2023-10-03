@@ -35,9 +35,9 @@ Group 5 project info
 <a><img src ="https://avatars.githubusercontent.com/u/983927?s=48&v=4"></a>
 <br />
 </p>
-'''cmd
+```cmd
 pip install -r requirements.txt
-'''
+```
 
 
 <!-- MARKDOWN LINKS & IMAGES  -->
