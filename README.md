@@ -21,8 +21,8 @@
 <!-- TABLE OF CONTENTS -->
 
 <h2>Table of Contents:</h2>
-[About the Project](#About)
-[Setup](#Setup)
+ - [About the Project](#About)
+ - [Setup](#Setup)
 
 
 <!-- ABOUT THE PROJECT -->
