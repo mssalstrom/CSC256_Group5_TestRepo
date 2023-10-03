@@ -5,6 +5,7 @@
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
 ![Commits][commit-shield]
+![pypi-shield]
 
 
 
@@ -20,19 +21,29 @@
 
 <!-- TABLE OF CONTENTS -->
 
-<h2>Table of Contents:</h2>
-[About the Project](#About)
-[Setup](#Setup)
+Table of Contents:
+- [About the Project](#about)
+- [Setup](#setup)
 
 
 <!-- ABOUT THE PROJECT -->
 ## About
 Group 5 project info
 
-
 ## Setup
-How to install packages
+<p align="left">
+<br />
+<a><img src ="https://avatars.githubusercontent.com/u/983927?s=48&v=4"></a>
+<br />
+</p>
 
+### Windows
+
+### CMD
+
+```cmd
+pip install -r requirements.txt
+```
 
 
 <!-- MARKDOWN LINKS & IMAGES  -->
@@ -40,6 +51,7 @@ How to install packages
 [contributors-shield]: https://img.shields.io/github/contributors/mssalstrom/CSC256_Group5_TestRepo
 [contributors-url]: https://github.com/mssalstrom/CSC256_Group5_TestRepo/graphs/contributors
 [commit-shield]: https://img.shields.io/github/last-commit/mssalstrom/CSC256_Group5_TestRepo
+[pypi-shield]: https://img.shields.io/pypi/pyversions/iconsdk
 
 
 
