@@ -30,11 +30,15 @@ Table of Contents:
 Group 5 project info
 
 ## Setup
-<p align="center">
+<p align="left">
 <br />
 <a><img src ="https://avatars.githubusercontent.com/u/983927?s=48&v=4"></a>
 <br />
 </p>
+
+### Windows
+
+### CMD
 
 ```cmd
 pip install -r requirements.txt
