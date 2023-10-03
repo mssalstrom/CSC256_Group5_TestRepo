@@ -20,9 +20,9 @@
 
 <!-- TABLE OF CONTENTS -->
 
-<h2>Table of Contents:</h2>
- - [About the Project](#About)
- - [Setup](#Setup)
+Table of Contents:
+ - [About the Project](#about)
+ - [Setup](#setup)
 
 
 <!-- ABOUT THE PROJECT -->
