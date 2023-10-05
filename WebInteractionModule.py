@@ -1,8 +1,9 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.safari import SafariDriverManager
 from selenium.webdriver.firefox.service import Service as FirefoxService
-from webdriver_manager.firefox import GeckoDriverManager
+from selenium.webdriver.safari.service import Service as SafariService
 import time
 global driver
 
@@ -13,6 +14,8 @@ def initialize_driver(browser_type):
         driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
     elif browser_type == 'firefox':
         driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
+    elif browser_type == 'safari':
+        driver = webdriver.Safari(service=SafariService(SafariDriverManager().install()))
     return driver
 
 
