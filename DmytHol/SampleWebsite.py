@@ -1,13 +1,21 @@
-from flask import Flask
+from flask import Flask, render_template
 
-# Create a Flask web application instance
 app = Flask(__name__)
 
-# Define a route and a function to handle the route
+# Define the home page
 @app.route('/')
-def hello_world():
-    return 'Hello, World! Test'
+def home():
+    return render_template('home.html')
 
-# Run the Flask application
+# Define the first page
+@app.route('/page1')
+def page1():
+    return render_template('page1.html')
+
+# Define the second page
+@app.route('/page2')
+def page2():
+    return render_template('page2.html')
+
 if __name__ == '__main__':
     app.run()

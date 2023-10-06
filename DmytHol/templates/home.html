@@ -1,12 +1,17 @@
-<!DOCTYPE html>
 <html>
 <head>
-    <title>Home Page</title>
+    <title>Welcome to My Awesome App</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='Home.css') }}">
 </head>
 <body>
-    <h1>Welcome to the Home Page</h1>
-    <a href="/page1"><button>Go to Page 1</button></a>
-    <a href="/page2"><button>Go to Page 2</button></a>
+    <div class="home-container">
+        <h1 class="home-heading">Welcome to Home Page</h1>
+        <p class="home-description">Explore and Enjoy</p>
+        <div class="home-buttons">
+            <a href="/counter" class="home-button home-button-primary">Page1</a>
+            <a href="/weather" class="home-button home-button-secondary">Page2</a>
+        </div>
+    </div>
 </body>
 </html>
 
